@@ -130,8 +130,8 @@
     <Reference Include="System.Data" />
     <Reference Include="System.Net.Http" />
     <Reference Include="System.Xml" />
-    <Reference Include="Tapas.CICD.ReleaseHelper, Version=0.5.3.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>packages\Tapas.CICD.ReleaseHelper.0.5.3\lib\net461\Tapas.CICD.ReleaseHelper.dll</HintPath>
+    <Reference Include="Tapas.CICD.ReleaseHelper, Version=0.5.3.1, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>packages\Tapas.CICD.ReleaseHelper.0.5.3.1\lib\net461\Tapas.CICD.ReleaseHelper.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
